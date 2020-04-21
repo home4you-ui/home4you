@@ -1,0 +1,182 @@
+@import "variables";
+
+@font-face {
+  font-family: '#{$icomoon-font-family}';
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?eok87r');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?eok87r#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?eok87r') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?eok87r') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?eok87r##{$icomoon-font-family}') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: '#{$icomoon-font-family}' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-design .path1 {
+  &:before {
+    content: $icon-design-path1;  
+    color: rgb(3, 108, 127);
+  }
+}
+.icon-design .path2 {
+  &:before {
+    content: $icon-design-path2;  
+    margin-left: -1em;  
+    color: rgb(3, 108, 127);
+  }
+}
+.icon-design .path3 {
+  &:before {
+    content: $icon-design-path3;  
+    margin-left: -1em;  
+    color: rgb(68, 68, 68);
+  }
+}
+.icon-design .path4 {
+  &:before {
+    content: $icon-design-path4;  
+    margin-left: -1em;  
+    color: rgb(68, 68, 68);
+  }
+}
+.icon-design .path5 {
+  &:before {
+    content: $icon-design-path5;  
+    margin-left: -1em;  
+    color: rgb(68, 68, 68);
+  }
+}
+.icon-design .path6 {
+  &:before {
+    content: $icon-design-path6;  
+    margin-left: -1em;  
+    color: rgb(68, 68, 68);
+  }
+}
+.icon-survey .path1 {
+  &:before {
+    content: $icon-survey-path1;  
+    color: rgb(3, 108, 127);
+  }
+}
+.icon-survey .path2 {
+  &:before {
+    content: $icon-survey-path2;  
+    margin-left: -1em;  
+    color: rgb(3, 108, 127);
+  }
+}
+.icon-survey .path3 {
+  &:before {
+    content: $icon-survey-path3;  
+    margin-left: -1em;  
+    color: rgb(3, 108, 127);
+  }
+}
+.icon-survey .path4 {
+  &:before {
+    content: $icon-survey-path4;  
+    margin-left: -1em;  
+    color: rgb(3, 108, 127);
+  }
+}
+.icon-survey .path5 {
+  &:before {
+    content: $icon-survey-path5;  
+    margin-left: -1em;  
+    color: rgb(3, 108, 127);
+  }
+}
+.icon-survey .path6 {
+  &:before {
+    content: $icon-survey-path6;  
+    margin-left: -1em;  
+    color: rgb(3, 108, 127);
+  }
+}
+.icon-survey .path7 {
+  &:before {
+    content: $icon-survey-path7;  
+    margin-left: -1em;  
+    color: rgb(3, 108, 127);
+  }
+}
+.icon-survey .path8 {
+  &:before {
+    content: $icon-survey-path8;  
+    margin-left: -1em;  
+    color: rgb(3, 108, 127);
+  }
+}
+.icon-survey .path9 {
+  &:before {
+    content: $icon-survey-path9;  
+    margin-left: -1em;  
+    color: rgb(3, 108, 127);
+  }
+}
+.icon-survey .path10 {
+  &:before {
+    content: $icon-survey-path10;  
+    margin-left: -1em;  
+    color: rgb(3, 108, 127);
+  }
+}
+.icon-survey .path11 {
+  &:before {
+    content: $icon-survey-path11;  
+    margin-left: -1em;  
+    color: rgb(3, 108, 127);
+  }
+}
+.icon-survey .path12 {
+  &:before {
+    content: $icon-survey-path12;  
+    margin-left: -1em;  
+    color: rgb(3, 108, 127);
+  }
+}
+.icon-survey .path13 {
+  &:before {
+    content: $icon-survey-path13;  
+    margin-left: -1em;  
+    color: rgb(68, 68, 68);
+  }
+}
+.icon-survey .path14 {
+  &:before {
+    content: $icon-survey-path14;  
+    margin-left: -1em;  
+    color: rgb(68, 68, 68);
+  }
+}
+.icon-survey .path15 {
+  &:before {
+    content: $icon-survey-path15;  
+    margin-left: -1em;  
+    color: rgb(68, 68, 68);
+  }
+}
+.icon-survey .path16 {
+  &:before {
+    content: $icon-survey-path16;  
+    margin-left: -1em;  
+    color: rgb(68, 68, 68);
+  }
+}
+
